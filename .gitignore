@@ -1,0 +1,21 @@
+# Hasil kompilasi
+/stokara
+/stokara.exe
+/build/
+/uji_*
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Berkas sementara editor
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
